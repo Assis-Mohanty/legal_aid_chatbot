@@ -1,0 +1,8 @@
+setup.py
+src/__init__.py
+src/helper.py
+src/prompt.py
+src/Legal_Aid_Chatbot.egg-info/PKG-INFO
+src/Legal_Aid_Chatbot.egg-info/SOURCES.txt
+src/Legal_Aid_Chatbot.egg-info/dependency_links.txt
+src/Legal_Aid_Chatbot.egg-info/top_level.txt
